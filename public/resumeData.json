@@ -1,0 +1,175 @@
+{
+  "main": {
+    "name":"Mark Sterrenberg",
+    "occupation":"Full Stack Software Engineer",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "mark.allen.sterrenberg@gmail.com",
+    "phone": "561-350-1594",
+    "address":{
+      "street":"2110 N Peak St Apt 1318",
+      "city":"Dallas",
+      "state":"Texas",
+      "zip": "75204"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/msterrenberg/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mark-sterrenberg-77999b41/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/marcusmaximusiv",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here is a list of my education, skills, and example works to exemplify my current work experience",
+    "education":[
+      {
+        "school":"Florida State University",
+        "degree":"Bachelors of Science in Information Technology",
+        "graduated":"May 2016",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"Florida State University",
+        "degree":"Bachelors of Arts in Creative Writing",
+        "graduated":"August 2012",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"Southern Methodist University",
+        "degree":"Full Stack Developer Bootcamp",
+        "graduated":"March 2020",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"AT&T",
+        "title":"Senior UX God",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"AT&T",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"100%"
+      },
+      {
+        "name":"Project Management",
+        "level":"100%"
+      },
+      {
+        "name":"Agile Methodologies",
+        "level":"100%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"60%"
+      },
+      {
+        "name":"Photoshop",
+        "level": "60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS3",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Javascript",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"70%"
+      },
+      {
+        "name":"Design Thinking",
+        "level":"65%"
+      },
+      {
+        "name":"JQuery",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Mark is an amazing individual! While working with him at The Children's Campaign as a Web Development Intern, he made sure I had everything I needed to get tasks done in a timely manner. He'll be an excellent asset to any company because he's hard-working, reliable, honest and innovative!",
+        "user":"LaRue Pierce (Colleague at Children's Campaign)"
+      }
+    ]
+  }
+}
